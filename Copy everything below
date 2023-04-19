@@ -23,6 +23,7 @@ git clone https://github.com/wazeHQ
 git clone https://github.com/mayankmetha/Rucky
 sudo snap install vlc
 sudo snap install Spotify 
+git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Hanoman
 sudo apt-get update
 DEBIAN_FRONTEND=noninteractive apt-get install freedombox
