@@ -6,6 +6,7 @@ ufw default allow outgoing
 flash install system
 sudo apt update
 sudo apt install snapd
+sudo snap install snapd
 sudo snap install core
 apt install cryptsetup
 sudo apt update 
