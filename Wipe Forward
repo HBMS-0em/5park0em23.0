@@ -11,18 +11,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -51,7 +52,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -65,18 +66,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -105,7 +107,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -119,18 +121,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -159,7 +162,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -173,18 +176,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -213,7 +217,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -227,18 +231,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -267,7 +272,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -281,18 +286,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -321,7 +327,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -335,18 +341,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -375,7 +382,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -389,18 +396,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -429,7 +437,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -443,18 +451,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -483,7 +492,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -497,18 +506,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -537,7 +547,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -551,18 +561,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -591,7 +602,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -605,18 +616,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -645,7 +657,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -659,18 +671,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -699,7 +712,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -713,18 +726,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -753,7 +767,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -767,18 +781,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -807,7 +822,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -821,18 +836,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -861,7 +877,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -875,18 +891,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -915,7 +932,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -929,18 +946,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -969,7 +987,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -983,18 +1001,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1023,7 +1042,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1037,18 +1056,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1077,7 +1097,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1091,18 +1111,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1131,7 +1152,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1145,18 +1166,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1185,7 +1207,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1199,18 +1221,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1239,7 +1262,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1253,18 +1276,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1293,7 +1317,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1307,18 +1331,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1347,7 +1372,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1361,18 +1386,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1401,7 +1427,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1415,18 +1441,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1455,7 +1482,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1469,18 +1496,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1509,7 +1537,8 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
+
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1523,18 +1552,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1563,7 +1593,7 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
->file
+>file 
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -1577,18 +1607,19 @@ debootstrap
 sudo get upgrade 
 <down>
 mkfs.ext3 /dev/sda3. 2a
-mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda0
 :(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
 mkfs.ext3 /dev/sda3. 2c
-mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda2
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <off>
 <inside out>
-*Yesterday I wanted to get high and do some work on the possibilitys of putting KDE on your system. and flash a hackRF with custom firmware.
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
 All my medication that I needed to concentrate was stolen by ingrates.
-*
-If you can't live without ripping someone off than you are just a worthless criminal, and you will be treated as such..
+If you can't live without ripping someone off than you are just a worthless criminal*.
 git clone https://github.com/ytisf/theZoo
 git clone https://github.com/ooni/probe
 >file 
@@ -1617,4 +1648,1434 @@ git clone https://github.com/malwares/DangerousZone
 >file 
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
 >file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade 
+<down>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda0
+:(){:|:&};:
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda1
+mkfs.ext3 /dev/sda3. 2c
+mkfs.ext3 /dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<down>
+<off>
+<inside out>
+*Yesterday I wanted to get high and do some work on the possibilitys of the system. and flash a hackRF with custom firmware.
+All my medication that I needed to concentrate was stolen by ingrates.
+If you can't live without ripping someone off than you are just a worthless criminal*.
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/ooni/probe
+>file 
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
+git clone https://github.com/malwares/DangerousZone
+>file 
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file 
